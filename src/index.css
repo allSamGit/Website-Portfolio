@@ -21,36 +21,6 @@
     --button-text: #ffffff;
 }
 
-:root {
-  /* Global background + text */
-  --bg: #f9fafb;
-  --text: #111827;
-  --text-muted: #6b7280;
-
-  /* Accent elements */
-  --accent: #111827;
-  --accent-bg: #ffffff;
-  --accent-border: #4a4a4a;
-
-  /* Cards */
-  --card-bg: #ffffff;
-  --card-border: #e5e7eb;
-
-  /* Tags */
-  --tag-bg: #e5e7eb;
-  --tag-text: #374151;
-
-  /* Buttons */
-  --button-bg: #2563eb;
-  --button-bg-hover: #1d4ed8;
-  --button-text: #ffffff;
-
-  /* Social buttons / misc */
-  --social-bg: #f2f2f2;
-  --border: #d0d0d0;
-  --shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-
 /* ===== BASE ===== */
 html {
     scroll-behavior: smooth;
